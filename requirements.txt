@@ -1,1 +1,2 @@
 pyTelegramBotAPI
+bot.py: BOT_TOKEN = os.getenv("BOT_TOKEN")  
