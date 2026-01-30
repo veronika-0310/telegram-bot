@@ -192,3 +192,4 @@ def get_activity(message):
 bot.remove_webhook()
 time.sleep(1)
 bot.infinity_polling(timeout=10, long_polling_timeout=5, skip_pending=True)
+
